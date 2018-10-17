@@ -1,4 +1,4 @@
-CANALES DE COMUNICACION
+## CANALES DE COMUNICACION
 
 1) Como se construira la pagina web?
 2) Que redes sociales se utilizaran?

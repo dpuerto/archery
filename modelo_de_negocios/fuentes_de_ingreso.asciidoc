@@ -1,4 +1,4 @@
-FUENTES DE INGRESO
+## FUENTES DE INGRESO
 
 1) Como se estableceran los precios?
 2) Estudiar el mercado de desarrollo de software

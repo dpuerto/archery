@@ -1,12 +1,12 @@
-###### ARCHERY
+# ARCHERY
 
-#### GENERAL
+## GENERAL
 
 - Filosofia
 - Porque, Como y Que
 - Canvas
 
-#### CANVAS
+## CANVAS
 
 ### PROPUESTA DE VALOR
 

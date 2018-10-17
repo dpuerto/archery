@@ -1,4 +1,4 @@
-SOCIOS CLAVE
+## SOCIOS CLAVE
 
 1) Desarrolladores freelance?
 2) Camaras de Comercio
