@@ -1,6 +1,6 @@
 ## ACTIVIDADES  CLAVE
 
-1) Cotizacion de productos digitales (Esto tambien se ha incluido en RELACIONES CON LOS CLIENTES)
+1. Cotizacion de productos digitales (Esto tambien se ha incluido en RELACIONES CON LOS CLIENTES)
 2) Desarrollo de productos digitales/Software
 3) Que metodologia(s) se utilizaran para desarrollar software y como se implementaran?
 4) Diseño de productos digitales
