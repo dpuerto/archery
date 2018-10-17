@@ -1,2 +1,2 @@
 # archery
-Looks for a better world and society throught technology
+This project looks for a better world and society throught technology
