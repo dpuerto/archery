@@ -1,9 +1,9 @@
 ## FUENTES DE INGRESO
 
-1) Como se estableceran los precios?
-2) Estudiar el mercado de desarrollo de software
-3) Estudiar el mercado de las consultorias en desarrollo de software
-4) Consultorias en productos digitales
-5) Clases
-6) Ingresos de productos propios
+1. Como se estableceran los precios?
+2. Estudiar el mercado de desarrollo de software
+3. Estudiar el mercado de las consultorias en desarrollo de software
+4. Consultorias en productos digitales
+5. Clases
+6. Ingresos de productos propios
 

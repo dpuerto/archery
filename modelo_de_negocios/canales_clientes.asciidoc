@@ -1,8 +1,8 @@
 ## CANALES DE COMUNICACION
 
-1) Como se construira la pagina web?
-2) Que redes sociales se utilizaran?
-3) Herramientas de seguimiento de proyectos de Software como Jira/Asana (Ciclo de vida de un producto)
-4) Que tipo de documentos se utilizaran en la interaccion con el cliente?
-5) Que tipo de interaccione se permitiran en la pagina web de Archery (Ej. Se permitira a traves de la pagina hacer una cotizacion?)
-6) Los ingenieros pueden vender
+1. Como se construira la pagina web?
+2. Que redes sociales se utilizaran?
+3. Herramientas de seguimiento de proyectos de Software como Jira/Asana (Ciclo de vida de un producto)
+4. Que tipo de documentos se utilizaran en la interaccion con el cliente?
+5. Que tipo de interaccione se permitiran en la pagina web de Archery (Ej. Se permitira a traves de la pagina hacer una cotizacion?)
+6. Los ingenieros pueden vender
