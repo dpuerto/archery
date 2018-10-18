@@ -1,62 +1,63 @@
-# ARCHERY
-
-## GENERAL
-
-- Filosofia
-- Porque, Como y Que
-- Canvas
-
 ## CANVAS
 
 ### PROPUESTA DE VALOR
 
-- Educar a personas y empresas en el uso de productos digitales
-- Transparencia en el proceso de construccion de productos digitales
-- Desarrollo de productos digitales a la medida
-- Consultoria en productos digitales 
+- Diseño de servicios y productos digitales.
+- Construccion de productos digitales que generen valor a los clientes y usuarios de estos.
+- Consultoría a personas y empresas en el uso y adquisición de productos digitales.
+- Transparencia en el proceso de construcción de productos digitales.
 
-### CLIENTES
+### SEGMENTOS DE MERCADO
 
 - Empresas
+- Start-ups
 - Personas
 
 ### RELACION CON LOS CLIENTES
 
+- Asistencia personal exclusiva
+- Servicios automaticos a través de la página web de Archery
+- Asistencia a Eventos
+- Presentaciones en empresas
+- Participación en comunidades
+- Redes sociales
 - Enseñanza / Asesoramiento en diseño y construccion de productos digitales
 - Orientacion en generacion de valor a partir de productos digitales
 
-### CANALES DE COMUNICACION
+### CANALES (Comunicación, Distribución y Venta)
 
 - Pagina web
+- Equipo comercial (Vendedores e ingenieros)
+- Socios comerciales
 - Redes sociales
-- Personas (Ingenieros, Vendedores)
 - Plataformas de Freelancing
 
-### INGRESOS
+### FUENTES DE INGRESOS
 
-- Desarrollo de productos digitales
-- Consultorias en productos digitales
-- Clases
-- Ingresos de productos propios
-
-### ACTIVIDADES CLAVES
-
-- Cotizacion de productos digitales
-- Desarrollo de productos digitales/Software
-- Diseño de productos digitales
-- Asesoramiento en construccion de productos digitales/Software
+- Venta de productos digitales
+- Venta de consultoría en diseño de productos digitales
+- Venta de consultaría en tecnología  
+- Ingresos por productos propios (Cuota por uso, Cuotas por suscripción, etc...)
+- Ventas de clases en tecnología (Personas, instituciones)
 
 ### RECURSOS CLAVE
 
 - Desarrolladores de software
-- Personas con vision de producto
+- Personas con visión de producto
+- Vendedores
 - Herramientas de software Open Source
+
+### ACTIVIDADES CLAVES
+
+- Desarrollo de productos digitales/Software
+- Consultoría en construcción de productos digitales/Software (Resolución de problemas)
+- Diseño de productos digitales
+- Gestion de plataformas/productos propios de Archery
 
 ### SOCIOS CLAVE
 
-- Desarrolladores freelance?
-- Camaras de Comercio
-- Grupos/Cursos de emprendimiento
+- Desarrolladores de software freelancer
+- Agentes comerciales independientes (personas, empresas)
 
 ### ESTRUCTURA DE COSTES
 
