@@ -4,9 +4,10 @@
 - ¿Para quién crearemos valor?
 - ¿Cuáles son nuestros clientes más importantes?
 
-### SEGMENTOS DE MERCADO
+### HIPÓTESIS
 - Empresas
 - Start-ups
 - Personas/Emprendedores
 
 ### Acciones
+- Buscar información -datos, reportes, infogramas, etc...- sobre el mercado del software en Colombia
