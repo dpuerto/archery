@@ -17,6 +17,7 @@
 
 ### ACCIONES
 * Crear correos electrónicos de Archery
+* Diseño de marca de Archery 
 * Definir plan de trabajo de la página web
 ** ¿Qué tipo de interacciones se permitirán en la página web de Archery (Ej. Se permitirá a través de la página hacer una cotización?)
 * Definir plan de trabajo en redes sociales
