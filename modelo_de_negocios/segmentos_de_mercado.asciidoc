@@ -5,7 +5,7 @@
 * ¿Cuáles son nuestros clientes más importantes?
 
 ### HIPÓTESIS
-#### Creamos valor para:
+* *Creamos valor para:*
 * Empresas
 * Start-ups
 * Personas/Emprendedores
