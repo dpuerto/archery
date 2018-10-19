@@ -1,8 +1,23 @@
-## CANALES DE COMUNICACION
+## CANALES (Comunicación, Distribución y Venta)
 
-1. Como se construira la pagina web?
-2. Que redes sociales se utilizaran?
-3. Herramientas de seguimiento de proyectos de Software como Jira/Asana (Ciclo de vida de un producto)
-4. Que tipo de documentos se utilizaran en la interaccion con el cliente?
-5. Que tipo de interaccione se permitiran en la pagina web de Archery (Ej. Se permitira a traves de la pagina hacer una cotizacion?)
-6. Los ingenieros pueden vender
+### PREGUNTAS
+* ¿Qué canales prefieren nuestros segmentos de mercado?
+* ¿Cómo establecemos actualmente el contacto con los clientes?
+* ¿Cómo se conjugan nuestros canales?
+* ¿Cuáles tienen mejores resultados?
+* ¿Cuáles son mas rentables?
+* ¿Como se integran en las actividades diarias de los clientes?
+
+## HIPÓTESIS -> HECHOS
+* Página web
+* Equipo comercial (Vendedores e ingenieros)
+* Socios comerciales
+* Redes sociales
+* Plataformas de Freelancing
+
+ACCIONES
+* Crear correos electrónicos de Archery
+* Definir plan de trabajo de la página web
+** ¿Qué tipo de interaccione se permitiran en la pagina web de Archery (Ej. Se permitira a traves de la pagina hacer una cotizacion?)
+* Definir plan de trabajo en redes sociales
+* Definir herramienta de comunicación de proyectos con clientes(Jira, Assana, otro) -Relacionado con el módulo de actividades clave-
