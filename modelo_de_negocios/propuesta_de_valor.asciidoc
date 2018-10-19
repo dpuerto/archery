@@ -1,10 +1,10 @@
 ## PROPUESTA DE VALOR
 
 ### PREGUNTAS CLAVE
-* *¿Qué valor proporcionamos a nuestros clientes?*
-* *¿Qué problema de nuestros clientes ayudamos a solucionar?*
-* *¿Qué necesidades de los clientes satisfacemos?*
-* *¿Qué paquetes de productos o servicios ofrecemos a cada segmento de mercado?*
+* ¿Qué valor proporcionamos a nuestros clientes?
+* ¿Qué problema de nuestros clientes ayudamos a solucionar?
+* ¿Qué necesidades de los clientes satisfacemos?
+* ¿Qué paquetes de productos o servicios ofrecemos a cada segmento de mercado?
 * ¿Como se va a mostrar/presentar transparencia en el proceso?
 * ¿Cuales van a ser aquellas dimensiones, más alla del dinero, que se presentaran a la hora de hablar con potenciales clientes?
 * ¿Experiencia en construccion de software? Como se presentara esta. Tal vez tenga que ver con el punto uno.
