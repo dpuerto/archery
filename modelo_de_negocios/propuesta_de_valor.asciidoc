@@ -11,8 +11,24 @@
 
 ### HIPÓTESIS -> HECHOS
 * *Valor proporcionado a nuestros clientes*
+** Resolución de problemas
 ** Transparencia
 ** Confianza
 ** Experiencia
+
+* *Solucionamos los siguientes problemas a nuestros clientes:* 
+
+* *Paquete de productos y servicios:*
+** *Diseño* de productos y servicios digitales
+** Plataformas web
+** Paginas web
+** Aplicaciones móviles
+** Consultoría en productos digitales (adquisicion y uso)
+
+
+
+
+
+
 
 
