@@ -4,7 +4,7 @@
 * ¿Para quién crearemos valor?
 * ¿Cuáles son nuestros clientes más importantes?
 
-### HIPÓTESIS
+### HIPÓTESIS -> HECHOS
 * *Creamos valor para:*
 ** Empresas
 ** Start-ups
