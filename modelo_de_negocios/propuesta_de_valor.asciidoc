@@ -21,7 +21,7 @@
 * *Paquete de productos y servicios:*
 ** *Diseño* de productos y servicios digitales
 ** Plataformas web
-** Paginas web
+** Páginas web
 ** Aplicaciones móviles
 ** Consultoría en productos digitales (adquisicion y uso)
 
