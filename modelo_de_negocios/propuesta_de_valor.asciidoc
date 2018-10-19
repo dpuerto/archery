@@ -18,6 +18,8 @@
 
 * *Solucionamos los siguientes problemas a nuestros clientes:* 
 ** Entender como funcionan los productos digitales y como estos pueden ayudar a potencializar sus negocios. 
+** Integrar de manera eficiente productos digitales en el modelo de negocios
+** Validar el impacto de los productos digitales en los modelos de negocios y en los mercados en los que esto existen.
 
 * *Paquete de productos y servicios:*
 ** *Diseño* de productos y servicios digitales
