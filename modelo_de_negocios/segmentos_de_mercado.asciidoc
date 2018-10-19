@@ -11,3 +11,4 @@
 
 ### Acciones
 - Buscar información -datos, reportes, infogramas, etc...- sobre el mercado del software en Colombia
+- Capturar información sobre potenciales clientes a través de formularios en la página web de Archery
