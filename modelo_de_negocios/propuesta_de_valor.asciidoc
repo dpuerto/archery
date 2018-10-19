@@ -10,9 +10,9 @@
 * ¿Experiencia en construccion de software? Como se presentara esta. Tal vez tenga que ver con el punto uno.
 
 ### HIPÓTESIS
-#### Valor proporcionado a nuestros clientes
-* Transparencia
-* Confianza
-* Experiencia
+* *Valor proporcionado a nuestros clientes*
+** Transparencia
+** Confianza
+** Experiencia
 
 
