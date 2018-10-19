@@ -3,6 +3,7 @@
 ### PREGUNTAS CLAVE
 * *¿Qué valor proporcionamos a nuestros clientes?* +
   ** Transparencia
+  ** Confianza
 * ¿Qué problema de nuestros clientes ayudamos a solucionar?
 * ¿Qué necesidades de los clientes satisfacemos?
 * ¿Qué paquetes de productos o servicios ofrecemos a cada segmento de mercado?
