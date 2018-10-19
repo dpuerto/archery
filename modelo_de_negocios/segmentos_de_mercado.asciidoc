@@ -6,9 +6,9 @@
 
 ### HIPÓTESIS
 * *Creamos valor para:*
-* Empresas
-* Start-ups
-* Personas/Emprendedores
+** Empresas
+** Start-ups
+** Personas/Emprendedores
 
 ### ACCIONES
 * Definir claramente cuales van a ser los *productos/servicios* que va a ofrecer Archery.
