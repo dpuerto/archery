@@ -1,7 +1,7 @@
 ## PROPUESTA DE VALOR
 
 ### PREGUNTAS CLAVE
-* *¿Qué valor proporcionamos a nuestros clientes?*
+* *¿Qué valor proporcionamos a nuestros clientes?* +
   Transparencia
 * ¿Qué problema de nuestros clientes ayudamos a solucionar?
 * ¿Qué necesidades de los clientes satisfacemos?
