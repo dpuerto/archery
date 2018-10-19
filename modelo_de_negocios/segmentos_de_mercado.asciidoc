@@ -10,5 +10,9 @@
 - Personas/Emprendedores
 
 ### Acciones
-- Buscar información -datos, reportes, infogramas, etc...- sobre el mercado del software en Colombia
+- Buscar información -datos, reportes, infogramas, etc...- sobre el mercado del software en Colombia, en Latinoamerica y en el mundo
 - Capturar información sobre potenciales clientes a través de formularios en la página web de Archery
+  - Se puede llevar a potenciales clientes a la página de Archery haciendo uso de campañas de marketing digital en plataformas como Facebook, Google y Linkedin.
+  - El/los formularios para captura de información pueden validar la siguiente información: 
+    - El tipo de usuario que solicita la cotización: Persona, empresa, startup
+    - El rol que ejerce la persona que esta solicitando la cotización: CEO, CTO, etc...
