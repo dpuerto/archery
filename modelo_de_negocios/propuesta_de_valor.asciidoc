@@ -9,7 +9,7 @@
 * ¿Cuales van a ser aquellas dimensiones, más alla del dinero, que se presentaran a la hora de hablar con potenciales clientes?
 * ¿Experiencia en construccion de software? Como se presentara esta. Tal vez tenga que ver con el punto uno.
 
-### HIPÓTESIS --> HECHOS
+### HIPÓTESIS -> HECHOS
 * *Valor proporcionado a nuestros clientes*
 ** Transparencia
 ** Confianza
