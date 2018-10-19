@@ -15,7 +15,7 @@
 * Redes sociales
 * Plataformas de Freelancing
 
-ACCIONES
+### ACCIONES
 * Crear correos electrónicos de Archery
 * Definir plan de trabajo de la página web
 ** ¿Qué tipo de interaccione se permitiran en la pagina web de Archery (Ej. Se permitira a traves de la pagina hacer una cotizacion?)
