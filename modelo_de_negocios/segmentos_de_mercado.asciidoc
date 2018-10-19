@@ -11,6 +11,7 @@
 
 ### ACCIONES
 * Buscar información -datos, reportes, infogramas, etc...- sobre el mercado del software en Colombia, en Latinoamérica y en el mundo.
+* Revisar las estadísticas de palabras claves relacionadas con "desarrollo de software" en las herramientas de Google.
 * Capturar información sobre potenciales clientes a través de formularios en la página web de Archery.
   ** Se puede llevar a potenciales clientes a la página de Archery haciendo uso de campañas de marketing digital en plataformas como Facebook, Google y Linkedin.
   ** El/los formularios para captura de información pueden validar la siguiente información: 
