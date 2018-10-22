@@ -1,10 +1,25 @@
-## RELACION CON LOS CLIENTES
+## RELACIÓN CON LOS CLIENTES
 
-1. Como se alcanzaran los clientes?
-2. Descripcion del proceso completo de acompañamiento y ventas de productos digitales a los clientes
-3. Se le presentara material constantemente a los clientes? Entradas de blog? Comunicacion a traves de redes sociales?
-	La idea es poder dar a los clientes evidencia del trabajo que se realiza en Archery. Mostrar experiencia y ofrecer confianza.
-4. Como se comunicara Archery con los clientes durante todo el ciclo de vida de los diferentes productos que ofrece Archery.
-	Por ejemplo, a partir de una metodologia como Scrum, se pueden derivar los tipos de interacciones que se sostendran con el cliente. Ej. Despues de cada sprint.
-	Ademas se debe tener en cuenta que se debe tener en cuenta la comunicacion y soporte una vez entregado un producto.
-5. Construccion de marca?
+### PREGUNTAS CLAVE
+* ¿Qué tipo de relación esperan los diferentes segmentos de mercado?
+* ¿Qué tipo de relaciones hemos establecido?
+* ¿Cuál es su coste?
+* ¿Cómo se integran en nuestro modelo de negocio?
+
+### ESTRATEGIA
+#### CAPTACIÓN DE CLIENTES
+* Asistencia a Eventos
+* Presentaciones en empresas
+* Participación en comunidades
+* Redes sociales
+#### FIDELIZACIÓN DE CLIENTES
+* Transparencia y acompañamiento durante todo el ciclo de vida de un producto digital.
+* Reuniones de seguimiento a través de la metodologías de desarrollo seleccionadas.
+* Herramientas de seguimiento de proyectos como Jira o Assana (Incluye soporte)
+* Entradas de blog?
+* Entradas en redes sociales?
+### ESTIMULACIÓN DE LAS VENTAS
+(En construcción)
+
+### ACCIONES
+(En construcción)
