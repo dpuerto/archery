@@ -1,12 +1,15 @@
 ## ACTIVIDADES  CLAVE
 
-1. Cotizacion de productos digitales (Esto tambien se ha incluido en RELACIONES CON LOS CLIENTES)
-2. Desarrollo de productos digitales/Software
-3. Que metodologia(s) se utilizaran para desarrollar software y como se implementaran?
-4. Diseño de productos digitales
-5. Asesoramiento en construccion de productos digitales/Software
-6. Generacion de contenido para personas/empresas
-7. Generacion de proyectos de codigo abierto
-8. Participacion voluntaria en proyectos de codigo abierto como politica de Archery
-9. Trabajar con Fundaciones para hacer de la tecnologia un conocimiento al alcance de la sociedad
-10. Metodologias de trabajo a nivel de Ingenieria (Despliegue, SCV, etc....)
+### PREGUNTAS CLAVE
+* ¿Qué actividades clave requieren nuestras propuestas de valor, canales de distribución, relaciones con clientes y fuentes de ingresos?
+
+### ESTRATEGIA
+* Desarrollo de productos digitales/Software
+* Consultoría en construcción de productos digitales/Software (Resolución de problemas)
+* Generación de contenidos para personas/empresas
+* Diseño de productos digitales
+* Gestión de plataformas/productos propios de Archery
+
+### ACCIONES
+* ¿Que metodología(s) se utilizaran para desarrollar software y como se implementaran?
+* ¿Qué metodologías de trabajo a nivel de Ingenieria (Despliegue, SCV, etc....) se utilizarán?
