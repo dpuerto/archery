@@ -1,3 +1,13 @@
-## COSTOS
+## ESTRUCTURA DE COSTES
 
-1. Personas
+### PREGUNTAS CLAVE
+* ¿Cuáles son los costes más importantes inherentes a nuestro modelo de negocio?
+* ¿Cuáles son los recursos clave más caros?
+* ¿Cuáles son las actividades clave más caras?
+
+### ESTRUCTURA DE COSTES
+* Personas
+* Desarrollo de software
+
+### ACCIONES
+(En construcción)
