@@ -1,5 +1,14 @@
 ## RECURSOS CLAVE
 
-1. Como se reclutaran personas para el proyecto?
-2. Que se tendra en cuenta a la hora de escoger a las personas que trabajaran en el proyecto.
-3. Software de codigo abierto
+### PREGUNTAS CLAVE
+* ¿Qué recursos clave requieren nuestras propuestas de valor, canales de distribución, relaciones con clientes y fuentes de ingresos?
+
+### ESTRATEGIA
+* Desarrolladores de software
+* Personas con visión de producto
+* Vendedores
+* Herramientas de software Open Source
+
+### ACCIONES
+* ¿Cómo se reclutaran personas para el proyecto?
+* ¿Qué se tendra en cuenta a la hora de escoger a las personas que trabajaran en el proyecto.
