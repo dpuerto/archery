@@ -1,6 +1,8 @@
 ## MISIÓN Y VISIÓN
 ### Misión
 #### dp
-Empoderar a personas y empresas con productos software que contribuyan al bienestar de la sociedad.
+* Empoderar a las empresas y los mercados con productos digitales/software que contribuyan al bienestar general de la sociedad.
 
-### Vision
+### Visión
+#### dp
+* Una sociedad con más oportunidades y en la cual el mercado del software y la tecnología sea totalmente transparente y accesible.
