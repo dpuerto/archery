@@ -1,7 +1,7 @@
 ## PORQUÉ, CÓMO Y QUÉ
 ### PORQUÉ
 #### dp
-Creemos que la tecnología es una herramienta que debe potencializar la igualdad en la humanidad.
+* Creemos que la tecnología es una herramienta que debe potencializar la igualdad en la humanidad.
 
 ### CÓMO
 #### dp
