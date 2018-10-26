@@ -1,14 +1,16 @@
-## HOW TO CONFIGURE ZOHO MAIL WITH MI.COM.CO DOMAIN
-### Steps
-* Go to https://mi.com.co
-* Log in using your credentials
-* Go to https://www.zoho.com/es-xl/
-* Go to Mail -> "REGISTRESE AHORA"
-* Select "Correo Electronico empresarial"
-* Select "PLAN GRATUITO"
+## Como configurar Zoho mail con el proveedor de dominios mi.com.co
+### Siga este paso a paso
+* Ir a https://mi.com.co
+* Ingrese (login) al servicio haciendo uso de sus credenciales
+* Vaya a https://www.zoho.com/es-xl/
+* Vaya a Mail -> "REGISTRESE AHORA"
+* Seleccione "Correo Electronico empresarial"
+* Seleccione "PLAN GRATUITO"
+* Complete el formulario presentado por Zoho
 * Complete the form presented by Zoho
-* Follow the step_by_step pocess recommended by Zoho
+* Siga el paso a paso recomendado por Zoho para llevar la integracion con su proveedor de dominios
+** Tenga en cuenta que las actualizaciones que se hagan en las configuraciones de su proveedor de dominios pueden tomar un par de horas en verse reflejadas en la red. Por lo tanto, algunos pasos del proceso anterior pueden tomar un tiempo considerable.
 
-### DETAILS
+### Detalles (Eliminar)
 * Admin account -> admin@archery.com.co
 * Admin pass -> cambiarclave123
