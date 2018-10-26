@@ -10,7 +10,3 @@
 * Complete the form presented by Zoho
 * Siga el paso a paso recomendado por Zoho para llevar la integracion con su proveedor de dominios
 ** Tenga en cuenta que las actualizaciones que se hagan en las configuraciones de su proveedor de dominios pueden tomar un par de horas en verse reflejadas en la red. Por lo tanto, algunos pasos del proceso anterior pueden tomar un tiempo considerable.
-
-### Detalles (Eliminar)
-* Admin account -> admin@archery.com.co
-* Admin pass -> cambiarclave123
