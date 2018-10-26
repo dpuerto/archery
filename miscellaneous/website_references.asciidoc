@@ -3,7 +3,7 @@
 * https://www.rorko.com/
 * https://clearleft.com/
 * https://www.fullstacklabs.co
-** Excelente comunicacion del proceso de construccion de software (Playbook)
+** Excelente comunicación del proceso de construcción de software (Playbook)
 
 ### Templates/Themes (Candidatos)
 * https://demos.artbees.net/jupiter/himalia/
