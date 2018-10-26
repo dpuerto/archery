@@ -1,9 +1,9 @@
-## WEBSITE REFERENCES
-### Websites which offer products and services alike
+## Sitios web de referencia
+### Sitios web de empresas que ofrecen servicios similares a Archery
 * https://www.rorko.com/
 * https://clearleft.com/
 * https://www.fullstacklabs.co
 ** Excelente comunicacion del proceso de construccion de software (Playbook)
 
-### Templates/Themes (Candidates)
+### Templates/Themes (Candidatos)
 * https://demos.artbees.net/jupiter/himalia/
