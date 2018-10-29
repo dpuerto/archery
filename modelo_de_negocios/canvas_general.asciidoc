@@ -2,62 +2,44 @@
 
 ### PROPUESTA DE VALOR
 
-- Diseño de servicios y productos digitales.
-- Construcción de productos digitales que generen valor a los clientes y usuarios de estos
-- Consultoría a personas y empresas en el uso y adquisición de productos digitales
-- Transparencia en el proceso de construcción de productos digitales
+- Diseño de productos software.
+- Consultoría a personas y empresas en innovación a través de productos software
 
 ### SEGMENTOS DE MERCADO
 
 - Empresas
 - Start-ups
-- Personas
 
 ### RELACIÓN CON LOS CLIENTES
 
 - Asistencia personal exclusiva
-- Servicios automaticos a través de la página web de Archery
-- Asistencia a Eventos
-- Presentaciones en empresas
-- Participación en comunidades
-- Redes sociales
-- Enseñanza / Asesoramiento en diseño y construcción de productos digitales
-- Orientación en generación de valor a partir de productos digitales
 
 ### CANALES (Comunicación, Distribución y Venta)
 
-- Pagina web
-- Equipo comercial (Vendedores e ingenieros)
-- Socios comerciales
-- Redes sociales
-- Plataformas de Freelancing
+- Página web
+- Workshops (sesiones de trabajo conjuntas con clientes)
 
 ### FUENTES DE INGRESOS
 
-- Venta de productos digitales
-- Venta de consultoría en diseño de productos digitales
-- Venta de consultoría en tecnología  
-- Ingresos por productos propios (Cuota por uso, Cuotas por suscripción, etc...)
-- Ventas de clases en tecnología (Personas, instituciones)
+- Cobro por workshops
+- Cobro por prototipos
+- Cobro por pmvs
 
 ### RECURSOS CLAVE
 
 - Desarrolladores de software
 - Personas con visión de producto
-- Vendedores
-- Herramientas de software Open Source
 
 ### ACTIVIDADES CLAVES
 
-- Desarrollo de productos digitales/Software
-- Consultoría en construcción de productos digitales/Software (Resolución de problemas)
-- Diseño de productos digitales
-- Gestión de plataformas/productos propios de Archery
+- Sesiones de modelado de negocio
+- Sesiones de mapeo de historias de usuario
+- Prototipado de productos
+- Sprints de desarrollo de software
 
 ### SOCIOS CLAVE
 
-- Desarrolladores de software freelancer
-- Agentes comerciales independientes (personas, empresas)
+- (por definir)
 
 ### ESTRUCTURA DE COSTES
 
