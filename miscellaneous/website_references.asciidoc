@@ -7,3 +7,12 @@
 
 ### Templates/Themes (Candidatos)
 * https://demos.artbees.net/jupiter/himalia/
+* https://skywarriorthemes.com/benri/demo1/#
+
+### Que tenemos hasta ahora?
+* Productos y Servicios que ofrecemos
+
+### Aprendizaje
+* Hay templates gratis y pagos (Validar) R/. Si
+* Que es un archivo PSD? R/.Formato nativo de Adobe
+* Parallax? R/. Tendencia en diseno web segun la cual el contenido en background (ej. una imagen) se mueve a una velocidad diferente a la del contenido en foreground cuando se hace scrolling.
