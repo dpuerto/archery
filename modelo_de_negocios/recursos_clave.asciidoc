@@ -6,8 +6,6 @@
 ### RECURSOS CLAVE
 * Desarrolladores de software
 * Personas con visión de producto
-* Vendedores
-* Herramientas de software Open Source
 
 ### ACCIONES
 * ¿Cómo se reclutarán personas para el proyecto?

@@ -8,12 +8,10 @@
 * ¿Cuáles son mas rentables?
 * ¿Como se integran en las actividades diarias de los clientes?
 
-### HIPÓTESIS -> HECHOS
+### CANALES DE COMUNICACION
 * Página web
 * Equipo comercial (Vendedores e ingenieros)
-* Socios comerciales
 * Redes sociales
-* Plataformas de Freelancing
 
 ### ACCIONES
 * Crear correos electrónicos de Archery

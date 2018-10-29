@@ -3,12 +3,14 @@
 ### PREGUNTAS CLAVE
 * ¿Qué actividades clave requieren nuestras propuestas de valor, canales de distribución, relaciones con clientes y fuentes de ingresos?
 
-### ESTRATEGIA
-* Desarrollo de productos digitales/Software
+### ACTIVIDADES CLAVE
 * Consultoría en construcción de productos digitales/Software (Resolución de problemas)
 * Generación de contenidos para personas/empresas
 * Diseño de productos digitales
-* Gestión de plataformas/productos propios de Archery
+* Sesiones de modelado de negocio
+* Sesiones de mapeo de historias de usuario
+* Prototipado de productos
+* Sprints de desarrollo de software
 
 ### ACCIONES
 * ¿Que metodología(s) se utilizaran para desarrollar software y como se implementaran?

@@ -7,12 +7,9 @@
 * ¿Cómo les gustaría pagar?
 * ¿Cuánto reportan las diferentes fuentes de ingresos al total de ingresos?
 
-### ESTRATEGIA
-* Venta de productos digitales
+### FUENTES DE INGRESO
 * Venta de consultoría en diseño de productos digitales
 * Venta de consultoría en tecnología
-* Ingresos por productos propios (Cuota por uso, Cuotas por suscripción, etc…)
-* Ventas de clases en tecnología (Personas, instituciones)
 
 ### ACCIONES
 * Definir un listado de precios según producto/servicio (Incluye consultorías)

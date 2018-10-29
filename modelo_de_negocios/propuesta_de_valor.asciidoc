@@ -5,11 +5,8 @@
 * ¿Qué problema de nuestros clientes ayudamos a solucionar?
 * ¿Qué necesidades de los clientes satisfacemos?
 * ¿Qué paquetes de productos o servicios ofrecemos a cada segmento de mercado?
-* ¿Como se va a mostrar/presentar transparencia en el proceso?
-* ¿Cuales van a ser aquellas dimensiones, más alla del dinero, que se presentaran a la hora de hablar con potenciales clientes?
-* ¿Experiencia en construccion de software? Como se presentara esta. Tal vez tenga que ver con el punto uno.
 
-### HIPÓTESIS -> HECHOS
+### PROPUESTA DE VALOR
 * *Valor proporcionado a nuestros clientes*
 ** Resolución de problemas
 ** Transparencia
@@ -18,15 +15,13 @@
 
 * *Solucionamos los siguientes problemas a nuestros clientes:* 
 ** Entender como funcionan los productos digitales y como estos pueden ayudar a potencializar sus negocios. 
-** Integrar de manera eficiente productos digitales en el modelo de negocios
+** Integrar de manera eficiente productos digitales en sus modelos de negocios
 ** Validar el impacto de los productos digitales en los modelos de negocios y en los mercados en los que esto existen.
 
 * *Paquete de productos y servicios:*
+** Consultoria en productos sotware/digitales
+** Diseno de prototipos (Design Sprint workshops)
 ** *Diseño* de productos y servicios digitales
-** Plataformas web
-** Páginas web
-** Aplicaciones móviles
-** Consultoría en productos digitales (adquisición y uso)
 
 ### ACCIONES
 * Definir el paquete de servicios y productos a ofrecer a los diferentes segmentos de mercado de Archery
