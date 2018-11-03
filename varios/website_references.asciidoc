@@ -1,13 +1,28 @@
 ## Sitios web de referencia
 ### Sitios web de empresas que ofrecen servicios similares a Archery
+* https://ajsmart.com/
 * https://www.rorko.com/
 * https://clearleft.com/
 * https://www.fullstacklabs.co
 ** Excelente comunicación del proceso de construcción de software (Playbook)
 
 ### Templates/Themes (Candidatos)
+#### Free
+* https://demo.athemes.com/themes/?theme=Rocked
 * https://demos.artbees.net/jupiter/himalia/
 * https://skywarriorthemes.com/benri/demo1/#
+* https://demo.athemes.com/themes/?theme=Astrid
+* https://demo.athemes.com/themes/?theme=Sydney
+* https://demo.athemes.com/airi-startup/
+* https://demo.athemes.com/talon/
+* https://www.nimbusthemes.com/preview/?theme=simple-business
+* https://wordpress.org/themes/cannyon/
+
+#### Principales proveedores de sitios en wordpress
+* https://www.cloudways.com/blog/premium-wordpress-themes-providers/
+
+#### Paid
+* https://demo.athemes.com/airi-business/
 
 ### Que tenemos hasta ahora?
 * Productos y Servicios que ofrecemos
