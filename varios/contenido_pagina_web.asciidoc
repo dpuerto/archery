@@ -13,6 +13,7 @@ Valida tus ideas usando prototipos y clientes reales. Nuestros enfoques: +
 * Diseño de propuestas de valor
 * Design Sprint
 * Construcción de prototipos
+
 ### DESARROLLO DE PRODUCTOS DIGITALES
 Utilizamos metodologías de desarrollo de software centradas en los clientes y sus necesidades. Nuestros enfoques:+
 
