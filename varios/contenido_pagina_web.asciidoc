@@ -7,7 +7,7 @@ Entrega valor a tus usuarios traves de tus ideas
 Nos hemos propuesto entender a las personas y sus verdaderas necesidades para diseñar y construir productos que les permita dar el maximo de si.
 
 ## SERVICIOS Y PRODUCTOS
-### INVESTIGACIÓN DE MERCADO
+### INVESTIGACIÓN DE MERCADO 
 Valida tus ideas usando prototipos y clientes reales. Nuestros enfoques: +
 * Diseño de propuestas de valor
 * Design Sprint
