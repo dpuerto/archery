@@ -1,25 +1,25 @@
 ## CONTENIDO 
 ### ENCABEZADO
-*Productos digitales construidos con un proposito* +
+*Productos digitales construidos con un propósito* +
 Entrega valor a tus usuarios traves de tus ideas
 
 ### BODY/MENSAJES
-Nos hemos propuesto entender a las personas y sus verdaderas necesidades para disenar y construir productos que les permitan dar el maximo de si en la vida y en sus trabajos.
+Nos hemos propuesto entender a las personas y sus verdaderas necesidades para diseñar y construir productos que les permita dar el maximo de si.
 
 ## SERVICIOS Y PRODUCTOS
-### INVESTIGACION DE MERCADO
+### INVESTIGACIÓN DE MERCADO
 Valida tus ideas usando prototipos y clientes reales. Nuestros enfoques:
-* Diseno de propuestas de valor
+* Diseño de propuestas de valor
 * Design Sprint
-* Construccion de prototipos
+* Construcción de prototipos
 ### DESARROLLO DE PRODUCTOS DIGITALES
-Utilizamos metodologias centradas en la validacion temprana de hipotesis que nos permiten validar rapidamente con los clientes las necesidades de estos. Nuestros enfoques:
-* Desarrollo agil
-* Scrum
+Utilizamos metodologías de desarrollo de software centradas en los clientes y sus necesidades. Nuestros enfoques:
+* Desarrollo ágil
+* Scrum/XP
 * User Story Mapping
 
 ### TESTIMONIOS
-* Grey Learning - Tony Regalado - "Trabajar con Archery ha sido increible" 
+* Grey Learning - Tony Regalado - "Trabajar con Archery ha sido increíble" 
 
 ### ACERCA DE NOSOTROS
-* Somos un conjunto de personas apasionadas por el diseno y construccion de productos digitales que entreguen "realmente" valor a los clientes y los usuarios de estos.
+* Somos un conjunto de personas apasionadas por el diseño y construcción de productos digitales que entreguen "realmente" valor a los clientes y los usuarios de estos.
