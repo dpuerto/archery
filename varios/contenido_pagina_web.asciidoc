@@ -21,8 +21,8 @@ Utilizamos metodologías de desarrollo de software centradas en los clientes y s
 * Scrum/XP
 * User Story Mapping
 
-### TESTIMONIOS
+## TESTIMONIOS
 * Grey Learning - Tony Regalado - "Trabajar con Archery ha sido increíble" 
 
-### ACERCA DE NOSOTROS
+## ACERCA DE NOSOTROS
 * Somos un conjunto de personas apasionadas por el diseño y construcción de productos digitales que entreguen "realmente" valor a los clientes y los usuarios de estos.
