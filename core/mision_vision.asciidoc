@@ -1,8 +1,6 @@
 ## MISIÓN Y VISIÓN
 ### Misión
-#### dp
 * Ayudar a construir productos digitales que atiendan necesidades, generen valor y hagan mas felices a las personas.
 
 ### Visión
-#### dp
 * Ser un actor clave en la construccion y diseno de mercados mas transparentes y ricos en informacion.
