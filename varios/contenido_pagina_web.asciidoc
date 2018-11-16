@@ -4,7 +4,7 @@
 Ayudamos a empresas a crear los productos e innovaciones que sus clientes necesitan.
 
 ### BODY/MENSAJES
-*Las metodologías adecuadas para los mejores productos*
+*Las metodologías adecuadas para los mejores productos* +
 Nos hemos propuesto entender a las empresas y a sus clientes para diseñar y construir productos que respondan a sus necesidades. Utilizamos metodologías para realizar una exploración de los usuarios y sus verdaderos problemas, para diseñar los productos adecuados y construirlos de la mejor manera y en el tiempo justo.
 
 ## SERVICIOS Y PRODUCTOS
