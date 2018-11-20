@@ -29,7 +29,7 @@ Utilizamos metodologías de desarrollo de software centradas en los clientes y s
 * Somos un conjunto de personas apasionadas por el diseño y construcción de productos digitales que entreguen "realmente" valor a los clientes y los usuarios de estos.
 
 ## PRINCIPIOS
-Creemos que:
+Creemos que: +
 * Las buenas empresas son el resultado de una cultura clara y personas excepcionales.
 * La transparencia es clave en la busqueda de una cultura de trabajo excepcional y unas relaciones enriquecedoras.
 * El descubrimiento de errores y debilidades es una oportunidad para mejorar e innovar.
