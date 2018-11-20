@@ -30,8 +30,8 @@ Utilizamos metodologías de desarrollo de software centradas en los clientes y s
 
 ## PRINCIPIOS
 Creemos que: +
-* Las buenas empresas son el resultado de una cultura clara y personas excepcionales.
-* La transparencia es clave en la busqueda de una cultura de trabajo excepcional y unas relaciones enriquecedoras.
-* El descubrimiento de errores y debilidades es una oportunidad para mejorar e innovar.
-* El uso de metodologías es clave para la obtencion de resultados.
-* Entender el cliente, su mundo y como funciona su negocio, nos permite ofrecer soluciones tecnologicas realmente valiosas para ellos.
+* Las buenas empresas son el resultado de una cultura clara y personas excepcionales.+
+* La transparencia es clave en la busqueda de una cultura de trabajo excepcional y unas relaciones enriquecedoras.+
+* El descubrimiento de errores y debilidades es una oportunidad para mejorar e innovar.+
+* El uso de metodologías es clave para la obtencion de resultados.+
+* Entender el cliente, su mundo y como funciona su negocio, nos permite ofrecer soluciones tecnologicas realmente valiosas para ellos.+
